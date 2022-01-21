@@ -4900,7 +4900,7 @@ if(true) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/Flaticon.df1d12d9.eot";
+module.exports ="./Soham Hichkad _ Profile_files/Flaticon.df1d12d9.eot";
 
 /***/ }),
 
@@ -4911,7 +4911,7 @@ module.exports = __webpack_require__.p + "static/media/Flaticon.df1d12d9.eot";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/Flaticon.44e4b688.svg";
+module.exports ="./Soham Hichkad _ Profile_files/Flaticon.44e4b688.svg";
 
 /***/ }),
 
@@ -4922,7 +4922,7 @@ module.exports = __webpack_require__.p + "static/media/Flaticon.44e4b688.svg";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/Flaticon.404a9b2b.ttf";
+module.exports ="./Soham Hichkad _ Profile_files/Flaticon.404a9b2b.ttf";
 
 /***/ }),
 
@@ -4933,7 +4933,7 @@ module.exports = __webpack_require__.p + "static/media/Flaticon.404a9b2b.ttf";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/Flaticon.06c0dee1.woff";
+module.exports ="./Soham Hichkad _ Profile_files/Flaticon.06c0dee1.woff";
 
 /***/ }),
 
@@ -4944,7 +4944,7 @@ module.exports = __webpack_require__.p + "static/media/Flaticon.06c0dee1.woff";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/icomoon.36c46ec5.eot";
+module.exports ="./Soham Hichkad _ Profile_files/icomoon.36c46ec5.eot";
 
 /***/ }),
 
@@ -4955,7 +4955,7 @@ module.exports = __webpack_require__.p + "static/media/icomoon.36c46ec5.eot";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/icomoon.302fbc0a.svg";
+module.exports ="./Soham Hichkad _ Profile_files/icomoon.302fbc0a.svg";
 
 /***/ }),
 
@@ -4966,7 +4966,7 @@ module.exports = __webpack_require__.p + "static/media/icomoon.302fbc0a.svg";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/icomoon.b774c581.ttf";
+module.exports ="./Soham Hichkad _ Profile_files/icomoon.b774c581.ttf";
 
 /***/ }),
 
@@ -4977,7 +4977,7 @@ module.exports = __webpack_require__.p + "static/media/icomoon.b774c581.ttf";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/icomoon.e894ed50.woff";
+module.exports ="./Soham Hichkad _ Profile_files/icomoon.e894ed50.woff";
 
 /***/ }),
 
@@ -4988,7 +4988,7 @@ module.exports = __webpack_require__.p + "static/media/icomoon.e894ed50.woff";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ionicons.6cb36dec.eot";
+module.exports ="./Soham Hichkad _ Profile_files/ionicons.6cb36dec.eot";
 
 /***/ }),
 
@@ -4999,7 +4999,7 @@ module.exports = __webpack_require__.p + "static/media/ionicons.6cb36dec.eot";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ionicons.84e54e7b.svg";
+module.exports ="./Soham Hichkad _ Profile_files/ionicons.84e54e7b.svg";
 
 /***/ }),
 
@@ -5010,7 +5010,7 @@ module.exports = __webpack_require__.p + "static/media/ionicons.84e54e7b.svg";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ionicons.cc53d167.ttf";
+module.exports ="./Soham Hichkad _ Profile_files/ionicons.cc53d167.ttf";
 
 /***/ }),
 
@@ -5021,7 +5021,7 @@ module.exports = __webpack_require__.p + "static/media/ionicons.cc53d167.ttf";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ionicons.b2d42f25.woff2";
+module.exports ="./Soham Hichkad _ Profile_files/ionicons.b2d42f25.woff2";
 
 /***/ }),
 
@@ -5032,7 +5032,7 @@ module.exports = __webpack_require__.p + "static/media/ionicons.b2d42f25.woff2";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/ionicons.54453b6b.woff";
+module.exports ="./Soham Hichkad _ Profile_files/ionicons.54453b6b.woff";
 
 /***/ }),
 
@@ -5043,7 +5043,7 @@ module.exports = __webpack_require__.p + "static/media/ionicons.54453b6b.woff";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/open-iconic.47151e87.eot";
+module.exports ="./Soham Hichkad _ Profile_files/open-iconic.47151e87.eot";
 
 /***/ }),
 
@@ -5054,7 +5054,7 @@ module.exports = __webpack_require__.p + "static/media/open-iconic.47151e87.eot"
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/open-iconic.527eff64.otf";
+module.exports ="./Soham Hichkad _ Profile_files/open-iconic.527eff64.otf";
 
 /***/ }),
 
@@ -5065,7 +5065,7 @@ module.exports = __webpack_require__.p + "static/media/open-iconic.527eff64.otf"
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/open-iconic.eca2c267.svg";
+module.exports ="./Soham Hichkad _ Profile_files/open-iconic.eca2c267.svg";
 
 /***/ }),
 
@@ -5076,7 +5076,7 @@ module.exports = __webpack_require__.p + "static/media/open-iconic.eca2c267.svg"
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/open-iconic.93cc7aa6.ttf";
+module.exports ="./Soham Hichkad _ Profile_files/open-iconic.93cc7aa6.ttf";
 
 /***/ }),
 
@@ -5087,7 +5087,7 @@ module.exports = __webpack_require__.p + "static/media/open-iconic.93cc7aa6.ttf"
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/open-iconic.3cf97837.woff";
+module.exports ="./Soham Hichkad _ Profile_files/open-iconic.3cf97837.woff";
 
 /***/ }),
 
@@ -5098,7 +5098,7 @@ module.exports = __webpack_require__.p + "static/media/open-iconic.3cf97837.woff
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/Solar_Assistant.c883e639.JPG";
+module.exports ="./Soham Hichkad _ Profile_files/Solar_Assistant.c883e639.JPG";
 
 /***/ }),
 
@@ -5109,7 +5109,7 @@ module.exports = __webpack_require__.p + "static/media/Solar_Assistant.c883e639.
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/barc_herbarium.15f27895.PNG";
+module.exports ="./Soham Hichkad _ Profile_files/barc_herbarium.15f27895.PNG";
 
 /***/ }),
 
@@ -5120,7 +5120,7 @@ module.exports = __webpack_require__.p + "static/media/barc_herbarium.15f27895.P
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/bg_1.7274cdb2.jpg";
+module.exports ="./Soham Hichkad _ Profile_files/bg_1.7274cdb2.jpg";
 
 /***/ }),
 
@@ -5131,7 +5131,7 @@ module.exports = __webpack_require__.p + "static/media/bg_1.7274cdb2.jpg";
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/connector_rpa.39b42c2d.JPG";
+module.exports ="./Soham Hichkad _ Profile_files/connector_rpa.39b42c2d.JPG";
 
 /***/ }),
 
@@ -5142,7 +5142,7 @@ module.exports = __webpack_require__.p + "static/media/connector_rpa.39b42c2d.JP
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/kjsce_smartclass.dfbda213.JPG";
+module.exports ="./Soham Hichkad _ Profile_files/kjsce_smartclass.dfbda213.JPG";
 
 /***/ }),
 
@@ -5153,7 +5153,7 @@ module.exports = __webpack_require__.p + "static/media/kjsce_smartclass.dfbda213
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/my_ipl_predictor.00612f0e.JPG";
+module.exports ="./Soham Hichkad _ Profile_files/my_ipl_predictor.00612f0e.JPG";
 
 /***/ }),
 
@@ -5164,7 +5164,7 @@ module.exports = __webpack_require__.p + "static/media/my_ipl_predictor.00612f0e
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/skills_background1_2.88d23a74.jpg";
+module.exports ="./Soham Hichkad _ Profile_files/skills_background1_2.88d23a74.jpg";
 
 /***/ }),
 
@@ -5175,7 +5175,7 @@ module.exports = __webpack_require__.p + "static/media/skills_background1_2.88d2
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/vrshooter.b72c82ca.JPG";
+module.exports ="./Soham Hichkad _ Profile_files/vrshooter.b72c82ca.JPG";
 
 /***/ }),
 
